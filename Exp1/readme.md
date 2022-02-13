@@ -10,9 +10,9 @@ Dataset was from Boston Police Department about Crime Incident Report of 2020 th
 - Shooting cases were very less (1.6%) as compared to one that did not involved shooting 
 - Then analysis was done on the cases that involved shooting that showed:
 - - Cases were maximum during the mid year.
-- - Shooting cases showed a reverse trend and were more during the night as compared to daytime and all the months showed simmilar trend
+- - Shooting cases showed a reverse trend and were more during the night as compared to daytime and all the months showed similar trend
 - Scatter plot was done using the latitude and the longitude data, but there were some data about 1.8% with anomaly (the data was initially 0, 0) which were set to the mean of all the data 
-- Correlatin matrix showed that there was no corelation between the features
+- Correlation matrix showed that there was no corelation between the features
 
 # Reference:
 Dataset: [CRIME INCIDENT REPORTS - 2020, Boston Police Department](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system/resource/be047094-85fe-4104-a480-4fa3d03f9623).
